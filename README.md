@@ -4,7 +4,7 @@ It offers three core features: general conversation practice, scenario-based rol
 According to two rounds of user research, these functions effectively support users in improving their speaking and reading skills, providing a well-rounded and engaging language learning experience. <br/><br/>
 This capstone project is an extension of the Chatty group project from CS239 in Winter 2025. <br/><br/>
 A possible helpful tutorial to fully understand the functions of Chatty. <br/><br/>
-[![Chatty Tutorial](https://www.thatdigitaldude.com/wp-content/uploads/2023/11/obot.png)](https://youtu.be/oDvERelzOFQ)
+[![Chatty Tutorial](https://www.thatdigitaldude.com/wp-content/uploads/2023/11/digibot-in-white-circle.png)](https://youtu.be/oDvERelzOFQ)
 
 ## 🛠️ Setup Instructions
 
